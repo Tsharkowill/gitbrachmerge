@@ -1,2 +1,5 @@
-hello,sweet  world
-recitation help! 
+Explicit is always better than implicit!
+
+Simple is better than complex!
+
+Compleax is better than complicated!
